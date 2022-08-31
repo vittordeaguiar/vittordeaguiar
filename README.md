@@ -1,7 +1,7 @@
-<h1>Olá! Eu sou o Vittor de Aguiar, e busco me tornar um desenvolvedor!</h1>
+###Olá! Eu sou o Vittor de Aguiar, e busco me tornar um desenvolvedor!
 ##
 
-<h2>O que faço?</h2>
+<h3>O que faço?</h3>
 
 - 📖 Estou cursando Ciência da Computação na URI Santo Ângelo
 - 🌱 Focado em estudar C e Java POO
