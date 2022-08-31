@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Vittor de Aguiar, e busco me tornar um desenvolvedor!
 ##
 
-O que faço?
+## O que faço?
 
 - 📖 Estou cursando Ciência da Computação na URI Santo Ângelo
 - 🌱 Focado em estudar C e Java POO
