@@ -7,7 +7,6 @@ O que faço?
 - 🌱 Focado em estudar C e Java POO
 - 📫 Contate-me no email: vittoraguiar@icloud.com
 - ⚡ Aberto a oportunidades de emprego
-- 💻 Estou desenvolvendo um website nas horas vagas: www.megamoveissa.com
 
 ##
 
