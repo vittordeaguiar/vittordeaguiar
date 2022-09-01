@@ -11,8 +11,8 @@
   
 <div align="center">
   <a href="https://github.com/vittoraguiar">
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=vittoraguiar&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vittoraguiar&layout=compact&langs_count=7&theme=cobalt"/>
+  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=vittoraguiar&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vittoraguiar&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
 ##
