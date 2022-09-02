@@ -6,6 +6,7 @@
 - 🌱 Focado em estudar C e Java POO
 - 📫 Contate-me no email: vittoraguiar@icloud.com
 - ⚡ Aberto a oportunidades de emprego
+- 🔦 Curso técnico Manutenção e Suporte em Informática
 
 ##
   
