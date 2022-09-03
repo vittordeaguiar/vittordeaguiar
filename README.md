@@ -3,7 +3,7 @@
 <h3>O que faço?</h3>
 
 - 📖 Estou cursando Ciência da Computação na URI Santo Ângelo
-- 🌱 Focado em estudar C e Java POO
+- 🌱 Focado em estudar C e Java OO
 - 📫 Contate-me no email: vittoraguiar@icloud.com
 - ⚡ Aberto a oportunidades de emprego
 - 🔦 Curso técnico Manutenção e Suporte em Informática
