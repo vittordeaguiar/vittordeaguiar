@@ -1,4 +1,4 @@
-## Olá! Eu sou o Vittor de Aguiar, e busco me tornar um desenvolvedor!
+## Olá! Eu sou o Vittor de Aguiar, e busco me tornar um desenvolvedor back-end!
 
 <h3>O que faço?</h3>
 
