@@ -4,7 +4,7 @@
 
 - 📖 Estou cursando Ciência da Computação na URI Santo Ângelo
 - 🌱 Estudando C e C# OOP
-- 📫 Contate-me no email: vittoraguiar@icloud.com
+- 📫 Contate-me no email: vittoraguiar93@gmail.com
 - ⚡ Aberto a oportunidades de emprego
 - 🔦 Curso técnico Manutenção e Suporte em Informática
 
