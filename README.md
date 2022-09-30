@@ -3,7 +3,8 @@
 <h3>O que faço?</h3>
 
 - 📖 Estou cursando Ciência da Computação na URI Santo Ângelo
-- 🌱 Estudando C e C# OOP
+- 🎯 Estudando C# OOP
+- 📌 Estudando ASP.NET
 - 📫 Contate-me no email: vittoraguiar93@gmail.com
 - ⚡ Aberto a oportunidades de emprego
 - 🔦 Curso técnico Manutenção e Suporte em Informática
