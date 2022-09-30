@@ -6,7 +6,6 @@
 - 🎯 Estudando C# OOP
 - 📌 Estudando ASP.NET
 - 📫 Contate-me no email: vittoraguiar93@gmail.com
-- ⚡ Aberto a oportunidades de emprego
 - 🔦 Curso técnico Manutenção e Suporte em Informática
 
 ##
