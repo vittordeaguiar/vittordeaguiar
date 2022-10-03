@@ -3,10 +3,10 @@
 <h3>O que faço?</h3>
 
 - 📖 Estou cursando Ciência da Computação na URI Santo Ângelo
+- 🔦 Técnico - Manutenção e Suporte em Informática
 - 🎯 Estudando C# OOP
 - 📌 Estudando ASP.NET
 - 📫 Contate-me no email: vittoraguiar93@gmail.com
-- 🔦 Curso técnico Manutenção e Suporte em Informática
 
 ##
   
