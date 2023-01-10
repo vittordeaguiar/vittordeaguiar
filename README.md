@@ -6,7 +6,6 @@
 - 🔦 Técnico - Manutenção e Suporte em Informática
 - 🎯 Estudando JavaScript
 - 📌 Estudando .NET
-- 📫 Contate-me no email: vittoraguiar93@gmail.com
 
 ##
   
