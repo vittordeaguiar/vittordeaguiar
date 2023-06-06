@@ -5,13 +5,11 @@
 - 🔦 Técnico - Manutenção e Suporte em Informática - IFFar Campus Santo Ângelo
 - 📖 Estou cursando Ciência da Computação - URI Santo Ângelo
 - 🎯 Estudando JavaScript:
-  - Possuo conhecimentos em AJAX
-  - Manipulação do DOM
+  - Possuo conhecimentos em AJAX e manipulação do DOM
   - Trabalho com o framework ExtJS e além disso, possuo noções de React e Vue.js
   - Estudo sobre performance no JavaScript para tentar manter meus códigos otimizados para que sejam executados na web de maneira rápida e eficiente
-- 📌 Estudando .NET Core: 
-  - LINQ
-  - Estudo sobre ORMs, para entender suas diferenças e quando utilizá-los
+- 📌 Estudando .NET Core:
+  - ORMs: para entender suas diferenças e quando utilizá-los
   - Gosto muito de pesquisar sobre estrutura de projeto, para manter um projeto organizado e otimizado
   - Penso que aprender sobre manipulação de dados é muito importante
   - Crio e manipulo APIs
