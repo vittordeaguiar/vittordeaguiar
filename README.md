@@ -28,7 +28,3 @@ I'm constantly looking to improve as a developer and am particularly interested 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-##
-
-![Snake animation](https://github.com/vittoraguiar/vittoraguiar/blob/output/github-contribution-grid-snake.svg)
