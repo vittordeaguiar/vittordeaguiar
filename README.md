@@ -1,40 +1,30 @@
-## Olá! Eu sou o Vittor de Aguiar, e busco me tornar um desenvolvedor Full-Stack!
+## Olá! 👋
 
-<h3>Quem sou eu? 🫶</h3>
+### Quem sou eu? 🐱‍👤
+Meu nome é Vittor de Aguiar e estou em uma jornada para me tornar um desenvolvedor Full-Stack!
 
-- 🔦 Técnico - Manutenção e Suporte em Informática - IFFar Campus Santo Ângelo
-- 📖 Estou cursando Ciência da Computação - URI Santo Ângelo
-- 🎯 Estudando JavaScript:
-  - Possuo conhecimentos em AJAX e manipulação do DOM
-  - Trabalho com o framework ExtJS e além disso, possuo noções de React e Vue.js
-  - Estudo sobre performance no JavaScript para tentar manter meus códigos otimizados para que sejam executados na web de maneira rápida e eficiente
-- 📌 Estudando .NET Core:
-  - ORMs: para entender suas diferenças e quando utilizá-los
-  - Gosto muito de pesquisar sobre estrutura de projeto, para manter um projeto organizado e otimizado
-  - Penso que aprender sobre manipulação de dados é muito importante
-  - Crio e manipulo APIs
-  - Por fim, penso sempre em fazer códigos focados em performance, onde tento equilibrá-los entre velocidade e legibilidade
-- 💻 Trabalho com: 
-  - .NET Core - C#
-  - Sybase SQL Anywhere
-  - ExtJS
+### Formação e Atualmente 📚
+- 🎓 Formado como Técnico em Manutenção e Suporte em Informática pelo IFFar Campus Santo Ângelo.
+- 📖 Atualmente cursando Ciência da Computação na URI Santo Ângelo.
+
+### Estudando e Aprimorando 🎯
+Atualmente, estou focado em aprimorar minhas habilidades em SQL, JavaScript e .NET Core, com um interesse especial em manipulação de APIs e gerenciamento de banco de dados.
+
+### Habilidades Técnicas 💻
+Minhas principais habilidades e ferramentas que utilizo atualmente são:
+  - C# & .NET Core
   - JavaScript
-  - HTML - CSS
+  - Sybase SQL
+  - ExtJS
+  - HTML & CSS
 
-##
-  
-<div align="center">
-  <a href="https://github.com/vittoraguiar">
-  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=vittoraguiar&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vittoraguiar&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
+### Objetivos 🚀
+Estou constantemente procurando melhorar como desenvolvedor e estou especialmente interessado em contribuir mais para projetos de open source. Estou sempre aberto a novas oportunidades e desafios para ampliar meu conjunto de habilidades e fazer uma diferença positiva na comunidade de desenvolvimento.
 
-##
-
-<div align="center">
-  <img align="center" alt="Vittor-C-Sharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Vittor-JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Vittor-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vittor-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vittor-Postgree" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-</div>
+### Conhecimentos 🏆
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
