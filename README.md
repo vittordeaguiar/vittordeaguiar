@@ -1,27 +1,29 @@
-## Hello! 👋
+## Olá! 👋
 
-### Who am I? 🐱‍👤
-My name is Vittor de Aguiar and I'm on a journey to become a Full-Stack Developer!
+### Quem sou eu? 🐱‍👤
+Meu nome é Vittor de Aguiar e estou em uma jornada para me tornar um Desenvolvedor Full-Stack!
 
-### Education and Currently 📚
-- 🎓 I graduated as a Technical Support and Maintenance Specialist from IFFar Campus Santo Ângelo.
-- 📖 I'm currently studying Computer Science at URI Santo Ângelo.
+### Educação 📚
+- 🎓 Me formei como técnico em Manutenção e Suporte em Informática no IFFar Campus Santo Ângelo.
+- 📖 Atualmente, estou estudando Ciência da Computação na URI Campus Santo Ângelo.
 
-### Studying and Improving 🎯
-Right now, I'm focused on enhancing my skills in SQL, JavaScript and .NET Core, with a special interest in API manipulation and database management.
+### Estudando e Aprimorando 🎯
+No momento, estou focado em aprimorar minhas habilidades em  Node.js, JavaScript, Vue.js and SQL, com um interesse especial em manipulação de API e gerenciamento de bancos de dados.
 
-### Technical Skills 💻
-My main skills and tools that I use currently are:
-  - C# & .NET Core
+### Habilidades Técnicas 💻
+Minhas principais habilidades e ferramentas que uso atualmente são:
+  - Node.js
+  - Vue.js
   - JavaScript
-  - Sybase SQL
-  - ExtJS
+  - C#
+  - .NET Core
+  - Postgres SQL
   - HTML & CSS
 
-### Objectives 🚀
-I'm constantly looking to improve as a developer and am particularly interested in contributing more to open source projects. I'm always open to new opportunities and challenges to expand my skill set and make a positive difference in the development community.
+### Objetivos 🚀
+Como desenvolvedor, estou em constante evolução, buscando aprimoramento através de projetos pessoais, cursos e trabalhos freelance. Valorizo o aprendizado autodidata e tenho um interesse especial em contribuir para projetos de código aberto. Mantenho-me aberto a novas oportunidades e desafios, sempre com o objetivo de expandir minhas habilidades e causar um impacto positivo na comunidade de desenvolvimento.
 
-### Knowledge 🏆
+### Conhecimento 🏆
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
