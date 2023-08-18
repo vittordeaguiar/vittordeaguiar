@@ -15,17 +15,17 @@ Minhas principais habilidades e ferramentas que uso atualmente são:
   - Node.js
   - Vue.js
   - JavaScript
+  - Postgres SQL
+  - Tailwind CSS
   - C#
   - .NET Core
-  - Postgres SQL
-  - HTML & CSS
 
 ### Objetivos 🚀
 Como desenvolvedor, estou em constante evolução, buscando aprimoramento através de projetos pessoais, cursos e trabalhos freelance. Valorizo o aprendizado autodidata e tenho um interesse especial em contribuir para projetos de código aberto. Mantenho-me aberto a novas oportunidades e desafios, sempre com o objetivo de expandir minhas habilidades e causar um impacto positivo na comunidade de desenvolvimento.
 
 ### Conhecimento 🏆
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
