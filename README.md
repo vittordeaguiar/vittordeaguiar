@@ -1,7 +1,7 @@
 ## Olá! 👋
 
 ### Quem sou eu? 🐱‍👤
-Meu nome é Vittor de Aguiar e estou em uma jornada para me tornar um Desenvolvedor Full-Stack!
+Meu nome é Vittor de Aguiar e sou um Desenvolvedor Full-Stack!
 
 ### Educação 📚
 - 🎓 Me formei como técnico em Manutenção e Suporte em Informática no IFFar Campus Santo Ângelo.
