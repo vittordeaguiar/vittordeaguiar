@@ -15,7 +15,8 @@ Minhas principais habilidades e ferramentas que uso atualmente são:
   - Node.js
   - Vue.js
   - JavaScript
-  - Postgres SQL
+  - MySQL
+  - PostgresSQL
   - Tailwind CSS
   - C#
   - .NET Core
@@ -28,4 +29,3 @@ Como desenvolvedor, estou em constante evolução, buscando aprimoramento atrav�
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
