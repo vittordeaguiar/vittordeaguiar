@@ -18,8 +18,7 @@ Minhas principais habilidades e ferramentas que uso atualmente são:
   - MySQL
   - PostgresSQL
   - Tailwind CSS
-  - C#
-  - .NET Core
+  - C# & .NET Core
 
 ### Objetivos 🚀
 Como desenvolvedor, estou em constante evolução, buscando aprimoramento através de projetos pessoais, cursos e trabalhos freelance. Valorizo o aprendizado autodidata e tenho um interesse especial em contribuir para projetos de código aberto. Mantenho-me aberto a novas oportunidades e desafios, sempre com o objetivo de expandir minhas habilidades e causar um impacto positivo na comunidade de desenvolvimento.
