@@ -7,6 +7,10 @@ Meu nome é Vittor de Aguiar e sou um Desenvolvedor Full-Stack!
 - 🎓 Me formei como técnico em Manutenção e Suporte em Informática no IFFar Campus Santo Ângelo.
 - 📖 Atualmente, estou estudando Ciência da Computação na URI Campus Santo Ângelo.
 
+### Experiência 🛠️
+- 🖥️ Trabalhei como Desenvolvedor Full Stack com C#, Sybase, PostgreSQL e JavaScript na Abase Sistemas e Soluções LTDA.
+- 🚀 No momento faço parte de uma startup onde tenho contato com vários projetos. Trabalho com Node.js (com Express.js), Vue.js e MySQL.
+
 ### Estudando e Aprimorando 🎯
 No momento, estou focado em aprimorar minhas habilidades em  Node.js, JavaScript, Vue.js and SQL, com um interesse especial em manipulação de API e gerenciamento de bancos de dados.
 
@@ -27,4 +31,5 @@ Como desenvolvedor, estou em constante evolução, buscando aprimoramento atrav�
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
