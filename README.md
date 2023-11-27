@@ -27,6 +27,10 @@ Minhas principais habilidades e ferramentas que uso atualmente são:
 ### Objetivos 🚀
 Como desenvolvedor, estou em constante evolução, buscando aprimoramento através de projetos pessoais, cursos e trabalhos freelance. Valorizo o aprendizado autodidata e tenho um interesse especial em contribuir para projetos de código aberto. Mantenho-me aberto a novas oportunidades e desafios, sempre com o objetivo de expandir minhas habilidades e causar um impacto positivo na comunidade de desenvolvimento.
 
+### Contato 📬
+Sinta-se à vontade para se conectar ou enviar uma mensagem.
+- E-mail: vittorszalanski@gmail.com
+
 ### Conhecimento 🏆
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
