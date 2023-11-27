@@ -12,7 +12,7 @@ Meu nome é Vittor de Aguiar e sou um Desenvolvedor Full-Stack!
 - 🚀 No momento faço parte de uma startup onde tenho contato com vários projetos. Trabalho com Node.js, Express.js, Vue.js e MySQL.
 
 ### Estudando e Aprimorando 🎯
-No momento, estou focado em aprimorar minhas habilidades em  Node.js, JavaScript, Vue.js and SQL, com um interesse especial em manipulação de API e gerenciamento de bancos de dados.
+No momento, estou focado em aprimorar minhas habilidades em  Node.js, JavaScript, Vue.js e SQL, com um interesse especial em manipulação de API e gerenciamento de bancos de dados. Faço questão de comparecer a eventos na minha cidade, em outras cidades e a hackathons. Acredito que um dos principais pontos para o desenvolvimento pessoal é através do compartilhamento de ideias e experiências.  
 
 ### Habilidades Técnicas 💻
 Minhas principais habilidades e ferramentas que uso atualmente são:
