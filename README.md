@@ -2,14 +2,15 @@
 
 ### I'm Vittor de Aguiar 🐱‍👤
 
-<strong>Co-Founder & Full-Stack Developer</strong> at Pyp System
+**Co-Founder & Full-Stack Developer** at Pyp System
 
 ### About me:
 
-<hr/>
-
-- Primarily using JavaScript (Node.js and Vue.js) for both frontend and backend development.
-- Passionate about creating efficient and scalable web applications.
+- **Frontend/Backend:** Deep experience with **JavaScript**, **Vue.js**, and **Node.js**.
+- **.NET Development:** Skilled in **C#** for robust backend solutions.
+- **Databases:** Proficient in **MySQL** and **PostgreSQL** for optimal data management.
+- **Cloud Services:** Experienced in deploying and managing apps with **AWS**.
+- **Project Management:** Experienced in overseeing the project lifecycle, defining architecture, development workflows, and selecting tools to ensure project efficiency.
 
 ### Let's connect! 📬
 - vittoraguiar93@gmail.com
