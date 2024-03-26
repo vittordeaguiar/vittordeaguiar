@@ -2,19 +2,14 @@
 
 ### I'm Vittor de Aguiar 🐱‍👤
 
-<strong>Full-Stack Developer</strong> at Growth 8
+<strong>Co-Founder & Full-Stack Developer</strong> at Pyp System
 
 ### About me:
 
 <hr/>
 
-- Using JavaScript most of the time (Node.js and Vue.js);
-- Tech lead;
-- Passionate about programming.
+- Primarily using JavaScript (Node.js and Vue.js) for both frontend and backend development.
+- Passionate about creating efficient and scalable web applications.
 
 ### Let's connect! 📬
 - vittoraguiar93@gmail.com
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
