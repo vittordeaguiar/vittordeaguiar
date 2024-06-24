@@ -2,7 +2,7 @@
 
 ### I'm Vittor de Aguiar 😶‍🌫️
 
-**Co-Founder & Full Stack Developer at Pyp System**
+**Co-Founder & Full Stack Developer at Pyp System** 💻
 
 ### 📬 How to reach me: vittoraguiar93@gmail.com
 
