@@ -1,6 +1,6 @@
 ## Hey! 🖖
 
-### I'm Vittor de Aguiar
+### I'm Vittor de Aguiar 😶‍🌫️
 
 **Co-Founder & Full Stack Developer at Pyp System**
 
