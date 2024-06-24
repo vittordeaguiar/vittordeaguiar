@@ -3,6 +3,7 @@
 ### I'm Vittor de Aguiar 😶‍🌫️
 
 **Co-Founder & Software Engineer at Pyp System** 💻
+**Software Engineer at FASA** 🏫
 
 ### 📬 How to reach me: vittoraguiar93@gmail.com
 
