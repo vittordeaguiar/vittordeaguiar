@@ -1,6 +1,6 @@
 ## Hey! 🖖
 
-### I'm Vittor de Aguiar 🐱‍👤
+### I'm Vittor de Aguiar
 
 **Co-Founder & Full Stack Developer at Pyp System**
 
@@ -15,7 +15,6 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![Node.js](https://img.shields.io/badge/-Node.js-6DA55F?&logo=Node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)
