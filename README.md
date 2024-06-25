@@ -2,7 +2,7 @@
 
 ### I'm Vittor de Aguiar 😶‍🌫️
 
-**[Co-Founder & Software Engineer at Pyp System](https://github.com/pypsystem)** 💻
+**Co-Founder & Software Engineer at [Pyp System](https://github.com/pypsystem)** 💻
 
 **Software Engineer at Growth 8** 🏫
 
