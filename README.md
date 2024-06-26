@@ -4,7 +4,7 @@
 
 **Co-Founder & Software Engineer at [Pyp System](https://github.com/pypsystem)** 💻
 
-**Software Engineer at Growth 8** 🏫
+**Software Engineer at [Growth 8](https://www.growth8.com.br/inicio/)** 🏫
 
 ### 📬 How to reach me: vittoraguiar93@gmail.com
 
