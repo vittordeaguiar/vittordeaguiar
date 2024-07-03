@@ -20,4 +20,3 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?logo=csharp&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
-![Arc](https://img.shields.io/badge/Arc-FCBFBD?logo=arc&logoColor=000)
