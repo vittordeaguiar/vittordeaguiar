@@ -6,8 +6,6 @@
 
 **Software Engineer at [Growth 8](https://www.growth8.com.br/inicio/)** 🏫
 
-### 📬 How to reach me: vittoraguiar93@gmail.com
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![Nest.js](https://img.shields.io/badge/Nest.js-%23E0234E.svg?&logo=NestJS&logoColor=red)
