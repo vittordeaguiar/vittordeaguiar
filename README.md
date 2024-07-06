@@ -2,9 +2,8 @@
 
 ### I'm Vittor de Aguiar 😶‍🌫️
 
-**Co-Founder & Software Engineer at [Pyp System](https://github.com/pypsystem)** 💻
-
-**Software Engineer at [Growth 8](https://www.growth8.com.br/inicio/)** 🏫
+- **Co-Founder & Software Engineer at [Pyp System](https://github.com/pypsystem)** 💻
+- **Software Engineer at [Growth 8](https://www.growth8.com.br/inicio/)** 🏫
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
