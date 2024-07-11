@@ -16,3 +16,4 @@
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?logo=csharp&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=fff)
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=firefox&logoColor=fff)
