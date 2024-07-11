@@ -1,6 +1,6 @@
 ## Hey! 🖖
 
-### I'm Vittor de Aguiar 😶‍🌫️
+### I'm Vittor de Aguiar 🥶
 
 - **Co-Founder & Software Engineer at [Pyp System](https://github.com/pypsystem)** 💻
 - **Software Engineer at [Growth 8](https://www.growth8.com.br/inicio/)** 🏫
