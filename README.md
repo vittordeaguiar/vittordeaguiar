@@ -1,4 +1,4 @@
-## Hey! 🖖
+## Hi! 🖖
 
 ### I'm Vittor de Aguiar 🥶
 
