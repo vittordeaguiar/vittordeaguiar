@@ -1,8 +1,8 @@
-## Hi!
+## Hi! 🖖
 
-### I'm Vittor
+### I'm Vittor de Aguiar 🥶
 
--   **Co-Founder & Software Engineer at [Pyp System](https://pypsystem.com)**
+-   **Co-Founder & Software Engineer at [Pyp System](https://pypsystem.com)** 💻
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
