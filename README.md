@@ -1,6 +1,6 @@
 ## Hi!
 
-### I'm Vittor de Aguiar 🥶
+### I'm Vittor
 
 - **Co-Founder & Software Engineer at [Pyp System](https://pypsystem.com)** 
 
