@@ -3,11 +3,11 @@
 
 ### I'm Vittor de Aguiar 🥶
 
--   **Co-Founder & Software Engineer** at **[Pyp System](https://pypsystem.com)** 💻
+-   **Software Engineer** 💻
 -   **Computer Science** at **URI Santo Ângelo** 📚
 
 📮 Send me a message! 
-- vittor.aguiar@pypsystem.com
+- vittoraguiar93@gmail.com
 
 #
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
