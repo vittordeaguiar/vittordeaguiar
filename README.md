@@ -31,16 +31,12 @@
   ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-0F172A?logo=tailwindcss&style=for-the-badge&logoColor=white)
-  ![Shadcnui](https://img.shields.io/badge/shadcn-000000?style=for-the-badge&logo=shadcnui)
   ![ReactJS](https://img.shields.io/badge/react-C.svg?style=for-the-badge&logo=react&color=282C34)
   ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
   ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
   ![NuxtJS](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=fff)
-  ![Dart](https://img.shields.io/badge/dart-C.svg?style=for-the-badge&logo=dart&color=152030)
-  ![Flutter](https://img.shields.io/badge/flutter-C.svg?style=for-the-badge&logo=flutter&color=0468D7)
+  ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-0F172A?logo=tailwindcss&style=for-the-badge&logoColor=white)
+  ![Shadcnui](https://img.shields.io/badge/shadcn-000000?style=for-the-badge&logo=shadcnui)
   
 </div>
 
