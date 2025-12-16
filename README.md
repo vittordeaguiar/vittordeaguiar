@@ -1,7 +1,7 @@
 ## Hey! 🖖
 
 ```diff
-@@I'm Vittor de Aguiar 🥶@@
+@@I'm Vittor de Aguiar@@
 
 ! **Back-end Developer**
 + **Computer Science** at **URI Santo Ângelo**
